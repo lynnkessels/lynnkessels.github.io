@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Paintings.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -300,8 +300,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2728-800x1091.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2728.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2870-800x1148.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2870.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -332,6 +332,146 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-2000x1426-800x570.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-mg-2000x1426.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Model drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x1379-800x551.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x1379.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Model drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2920-800x1168.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2920.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Model drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-1-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Works on paper",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2855-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2855.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Works on paper",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2859-800x1143.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2859.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Works on paper",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2476-800x990.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2476.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Works on paper",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2421-800x968.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2421.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Model drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1-2000x2575-800x1030.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-1-2000x2575.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Model drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x1685-800x674.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x1685.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Model drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2244-800x897.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2244.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Model drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2609-800x1043.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2609.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Model drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2612-800x1044.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2612.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Model drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2572-800x1028.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2572.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Model drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x1618-800x647.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x1618.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
