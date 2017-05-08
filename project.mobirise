@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 36,
+    "uniqCompNum": 37,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@"
   },
@@ -180,8 +180,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2763-800x1105.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2763.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -212,6 +212,126 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-2000x1787-800x714.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-mg-2000x1787.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Works on paper",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Works on paper",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2865-800x1146.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2865.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Works on paper",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2469-800x987.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2469.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Works on paper",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2577-800x1030.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2577.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Works on paper",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2509-800x1003.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2509.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Works on paper",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2740-800x1096.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2740.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Model drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2857.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Model drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2728-800x1091.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2728.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Model drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2728-800x1091.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2728.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Works on paper",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2553-800x1021.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2553.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Works on paper",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2877-800x1150.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x2877.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Works on paper",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x1426-800x570.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x1426.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
