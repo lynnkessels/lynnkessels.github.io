@@ -670,6 +670,9 @@ h6,
 #features1-13 .mbr-cards-col:nth-child(even) .card-text B {
   font-family: 'Oswald', sans-serif;
 }
+#features1-13 .mbr-cards-col:nth-child(odd) .card-text P {
+  color: #000000;
+}
 
 #ext_menu-e .hide-buttons .nav-btn {
   display: none !important;

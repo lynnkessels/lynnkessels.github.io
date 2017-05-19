@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Writings.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1021,6 +1021,9 @@
             ".mbr-cards-col:nth-child(even) .card-text B": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text P": {
+              "color": "#000000"
             }
           },
           "_anchor": "features1-13",
