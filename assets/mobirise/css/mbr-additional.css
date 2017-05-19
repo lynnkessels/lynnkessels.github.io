@@ -737,6 +737,8 @@ h6,
   color: #28324e;
 }
 
+
+
 #ext_menu-8 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -802,6 +804,13 @@ h6,
 #footer1-d P {
   color: #28324e;
 }
-#content7-q P {
-  color: #000000;
+#header1-15 .mbr-section-title SPAN {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#header1-15 .mbr-section-title I {
+  color: #28324e;
+}
+#header1-15 .mbr-section-lead {
+  font-family: 'Raleway', sans-serif;
+  color: #2b0680;
 }
