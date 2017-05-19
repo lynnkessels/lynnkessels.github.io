@@ -111,14 +111,14 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-mg-127x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/deze-122x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -131,7 +131,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><p>&nbsp;&nbsp;&nbsp;&nbsp;LYNN KESSELS</p></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Drawings.html\">DRAWINGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Paintings.html\">PAINTINGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Writings.html\">WRITINGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -574,14 +574,14 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-mg-127x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/deze-122x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -594,7 +594,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><p>&nbsp;&nbsp;&nbsp;&nbsp;LYNN KESSELS</p></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Drawings.html\">DRAWINGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Paintings.html\">PAINTINGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Writings.html\">WRITINGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -807,14 +807,14 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-mg-127x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/deze-122x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -827,7 +827,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><p>&nbsp;&nbsp;&nbsp;&nbsp;LYNN KESSELS</p></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Drawings.html\">DRAWINGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Paintings.html\">PAINTINGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Writings.html\">WRITINGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -862,7 +862,7 @@
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#121222"
+              "background-color": "#242935"
             },
             ".mbr-cards-col:nth-child(odd) .card-text I": {
               "font-family": "'Roboto Condensed', sans-serif",
@@ -887,9 +887,9 @@
           },
           "_anchor": "features1-11",
           "_params": {
-            "columnsColor": "#121222",
+            "columnsColor": "#242935",
             "paddingTop": "4",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1031,7 +1031,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#121222",
+            "bgColor": "#242935",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1081,7 +1081,7 @@
           },
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik <br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik zeg te vaak ik&nbsp;<br>",
+          "caption3": "<p>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik&nbsp;<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik <br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik <br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik <br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik <br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik <br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br><span style=\"line-height: 1.5;\">&nbsp;ik ik ik ik ik ik ik ik ik ik zeg te vaak ik&nbsp;</span></p>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -1227,14 +1227,14 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-mg-127x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/deze-122x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1247,7 +1247,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><p>&nbsp;&nbsp;&nbsp;&nbsp;LYNN KESSELS</p></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Drawings.html\">DRAWINGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Paintings.html\">PAINTINGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Writings.html\">WRITINGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -1408,14 +1408,14 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-mg-127x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/deze-122x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1428,7 +1428,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><p>&nbsp;&nbsp;&nbsp;&nbsp;LYNN KESSELS</p></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Drawings.html\">DRAWINGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Paintings.html\">PAINTINGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Writings.html\">WRITINGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -1481,8 +1481,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<i><br></i><br><i><br></i><br><i>Lynn Kessels</i>",
-          "text": "Student of Luca School of Arts.<br>",
+          "title": "<p><i><br></i><br><i><br></i><br><i>&nbsp; &nbsp; Lynn </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Kessels</i></p>",
+          "text": "Student of Luca School of Arts.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_styles": {
             ".mbr-section-title SPAN": {
@@ -1498,38 +1498,6 @@
               "color": "#2b0680"
             }
           }
-        },
-        {
-          "_inherit": "header1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_anchor": "header4-16",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/n_bpu4V4zCM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "right",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "Lynn Kessels",
-          "text": "Student at Luca School of Arts.&nbsp;<br>&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     }
