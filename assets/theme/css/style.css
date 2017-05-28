@@ -1214,7 +1214,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   padding-right: 10%; }
 .mbr-cards .striped .mbr-cards-col:nth-child(2n+1) {
   background: #2e2e2e;
-  color: #000; }
+  color: #fff; }
   .mbr-cards .striped .mbr-cards-col:nth-child(2n+1) .card-subtitle {
     color: #979797; }
 .mbr-cards .card {

@@ -3,8 +3,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -548,13 +546,6 @@ h6,
   color: #28324e;
 }
 
-
-
-
-
-
-
-
 #ext_menu-n .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -620,58 +611,11 @@ h6,
 #footer1-p P {
   color: #28324e;
 }
-#features1-11 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #242935;
+#features2-1b .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #443838;
 }
-#features1-11 .mbr-cards-col:nth-child(odd) .card-text I {
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 23px;
-  text-align: right;
-}
-#features1-11 .mbr-cards-col:nth-child(even) .card-text {
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 18px;
-  text-align: center;
-}
-#features1-11 .mbr-cards-col:nth-child(even) .card-text I {
-  text-align: center;
-}
-#features1-11 .mbr-cards-col:nth-child(odd) .card-text {
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 13px;
-}
-#features1-13 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #ffffff;
-}
-#features1-13 .mbr-cards-col:nth-child(odd) .card-text I {
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 16px;
-  text-align: right;
-  color: #000000;
-}
-#features1-13 .mbr-cards-col:nth-child(even) .card-text {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 18px;
-  text-align: center;
-  color: #ffffff;
-}
-#features1-13 .mbr-cards-col:nth-child(even) .card-text I {
-  text-align: center;
-  color: #ffffff;
-}
-#features1-13 .mbr-cards-col:nth-child(odd) .card-text {
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 16px;
-  color: #000000;
-}
-#features1-13 .mbr-cards-col:nth-child(odd) .card-text DIV {
-  text-align: left;
-}
-#features1-13 .mbr-cards-col:nth-child(even) .card-text B {
-  font-family: 'Oswald', sans-serif;
-}
-#features1-13 .mbr-cards-col:nth-child(odd) .card-text P {
-  color: #000000;
+#features2-1c .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #443838;
 }
 
 #ext_menu-e .hide-buttons .nav-btn {
@@ -816,4 +760,9 @@ h6,
 #header1-15 .mbr-section-lead {
   font-family: 'Raleway', sans-serif;
   color: #2b0680;
+  font-size: 23px;
+}
+#header1-15 .mbr-section-title P {
+  color: #28324e;
+  font-size: 14px;
 }
