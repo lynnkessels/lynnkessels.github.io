@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Writings.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1476,7 +1476,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<br><br><br><br>LYNN KESSELS<br><br>",
+          "title": "<br><br><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\">LYNN KESSELS</span><br><br>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_styles": {
