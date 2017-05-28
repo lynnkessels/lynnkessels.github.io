@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Writings.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 50,
+    "uniqCompNum": 53,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -897,7 +897,7 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<br>IK VLOOG OVER WOLKEN DIE LEKEN OP BLOEMKOOL<br><br><br>WE MOETEN MEER BLOEMKOOL BETREKKEN IN GESPREKKEN",
+          "caption1": "<br>IK VLOOG OVER WOLKEN DIE LEKEN OP BLOEMKOOL<br><br><br><br>WE MOETEN MEER BLOEMKOOL BETREKKEN IN GESPREKKEN",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -972,6 +972,14 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#443838"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
           }
         },
@@ -984,7 +992,7 @@
           "_anchor": "features2-1c",
           "_params": {
             "columnsColor": "#443838",
-            "paddingTop": "3",
+            "paddingTop": "0",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
@@ -1031,7 +1039,7 @@
           },
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<br><br><br><br>omvergeduwde verkeersborden<br>witte kauwgom op de stenen<br>mensen kijken vreemd<br><b>laars laars laars laars</b><br>en ze komen maar op me af<br>en ik zoek de stilte op via een hamkaasbroodje",
+          "caption2": "<br><br><br><br>omvergeduwde verkeersborden<br>witte kauwgom op de stenen<br>mensen kijken vreemd<br><b><i>laars laars laars laars</i></b><br>en ze komen maar op me af<br>en ik zoek de stilte op via een hamkaasbroodje",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1045,7 +1053,7 @@
           },
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik&nbsp;<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik&nbsp;<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik&nbsp;<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik&nbsp;<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik&nbsp;<br>ik ik ik ik ik ik ik ik ik ik ik zeg te vaak ik &nbsp;<br>",
+          "caption3": "ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik&nbsp;<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik&nbsp;<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik&nbsp;<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik&nbsp;<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik&nbsp;<br>ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik ik&nbsp;<br>ik ik ik ik ik ik ik ik ik ik ik zeg te vaak ik &nbsp;<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1092,6 +1100,18 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#443838"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text I": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           }
         }
@@ -1436,30 +1456,11 @@
             "Theme"
           ],
           "_name": "header1",
-          "_styles": {
-            ".mbr-section-title SPAN": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            },
-            ".mbr-section-title I": {
-              "color": "#28324e"
-            },
-            ".mbr-section-lead": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#2b0680",
-              "font-size": "23px"
-            },
-            ".mbr-section-title P": {
-              "color": "#28324e",
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "header1-15",
+          "_anchor": "header1-1f",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/-mg-7064-voorblad-2000x1584.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -1475,9 +1476,38 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<p><i style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\"><br></i></p><br><p><br></p><p><i style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\">Lynn&nbsp;</i><i style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\">Kessels<br><br></i></p>",
-          "text": "I'm a student of Luca School of Arts in Ghent. My work is about trying to find the purity and beauty in everyday life, but also the tension between line and plane. There is so much to discover in this area! This is a small grip of my search in the field of drawing, painting and poetry.<br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "title": "<br><br><br><br>LYNN KESSELS<br><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28324e"
+            },
+            ".mbr-section-lead": {
+              "color": "#2b0680"
+            },
+            ".mbr-section-lead B": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#28324e",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p>I'm a student of Luca School of Arts in Ghent. My work is about trying to find the purity and beauty in everyday life, but also the tension between line and plane. There is so much to discover in this area! This is a small grip of my search in the field of drawing, painting and poetry.</p><p><br></p>"
         }
       ]
     }

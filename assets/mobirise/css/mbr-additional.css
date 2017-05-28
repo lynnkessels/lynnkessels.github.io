@@ -3,6 +3,8 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 
 
 
@@ -546,6 +548,11 @@ h6,
   color: #28324e;
 }
 
+
+
+
+
+
 #ext_menu-n .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -614,8 +621,23 @@ h6,
 #features2-1b .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #443838;
 }
+#features2-1b .mbr-cards-col:nth-child(even) .card-text {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#features2-1b .mbr-cards-col:nth-child(odd) .card-text {
+  font-family: 'Roboto Condensed', sans-serif;
+}
 #features2-1c .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #443838;
+}
+#features2-1c .mbr-cards-col:nth-child(odd) .card-text {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#features2-1c .mbr-cards-col:nth-child(even) .card-text {
+  font-family: 'Oxygen', sans-serif;
+}
+#features2-1c .mbr-cards-col:nth-child(even) .card-text I {
+  font-family: 'PT Serif', serif;
 }
 
 #ext_menu-e .hide-buttons .nav-btn {
@@ -685,7 +707,6 @@ h6,
 }
 
 
-
 #ext_menu-8 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -751,18 +772,16 @@ h6,
 #footer1-d P {
   color: #28324e;
 }
-#header1-15 .mbr-section-title SPAN {
-  font-family: 'Roboto Condensed', sans-serif;
-}
-#header1-15 .mbr-section-title I {
+#header1-1f .mbr-section-title {
   color: #28324e;
 }
-#header1-15 .mbr-section-lead {
-  font-family: 'Raleway', sans-serif;
+#header1-1f .mbr-section-lead {
   color: #2b0680;
-  font-size: 23px;
 }
-#header1-15 .mbr-section-title P {
+#header1-1f .mbr-section-lead B {
+  color: #000000;
+}
+#header1-1f .mbr-section-lead SPAN {
   color: #28324e;
-  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
 }
