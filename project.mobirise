@@ -861,9 +861,22 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#3f4e4b"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
           "_anchor": "features2-1b",
           "_params": {
-            "columnsColor": "#443838",
+            "columnsColor": "#3f4e4b",
             "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": false,
@@ -968,20 +981,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#443838"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "features1",
@@ -989,9 +989,26 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#3f4e4b"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text I": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            }
+          },
           "_anchor": "features2-1c",
           "_params": {
-            "columnsColor": "#443838",
+            "columnsColor": "#3f4e4b",
             "paddingTop": "0",
             "paddingBottom": "4",
             "bgImageRadio": false,
@@ -1096,24 +1113,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#443838"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text I": {
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     },
@@ -1456,6 +1456,22 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28324e"
+            },
+            ".mbr-section-lead": {
+              "color": "#2b0680"
+            },
+            ".mbr-section-lead B": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#28324e",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
           "_anchor": "header1-1f",
           "_params": {
             "parallax": true,
@@ -1478,23 +1494,7 @@
           },
           "title": "<br><br><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\">LYNN KESSELS</span><br><br>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#28324e"
-            },
-            ".mbr-section-lead": {
-              "color": "#2b0680"
-            },
-            ".mbr-section-lead B": {
-              "color": "#000000"
-            },
-            ".mbr-section-lead SPAN": {
-              "color": "#28324e",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
@@ -1507,7 +1507,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p>I'm a student of Luca School of Arts in Ghent. My work is about trying to find the purity and beauty in everyday life, but also the tension between line and plane. There is so much to discover in this area! This is a small grip of my search in the field of drawing, painting and poetry.</p><p><br></p>"
+          "text": "<p><br></p><p>I'm a student of Luca School of Arts in Ghent. My work is about trying to find the purity and beauty in daily life, but also the tension between line and surface. There is so much to discover in this area! This is a small part of my research in the field of drawing, painting and poetry.</p><p><br></p>"
         }
       ]
     }

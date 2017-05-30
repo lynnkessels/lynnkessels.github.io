@@ -619,7 +619,7 @@ h6,
   color: #28324e;
 }
 #features2-1b .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #443838;
+  background-color: #3f4e4b;
 }
 #features2-1b .mbr-cards-col:nth-child(even) .card-text {
   font-family: 'Roboto Condensed', sans-serif;
@@ -628,7 +628,7 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #features2-1c .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #443838;
+  background-color: #3f4e4b;
 }
 #features2-1c .mbr-cards-col:nth-child(odd) .card-text {
   font-family: 'Roboto Condensed', sans-serif;
