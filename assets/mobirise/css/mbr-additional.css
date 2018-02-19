@@ -1373,24 +1373,14 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qK0wtyPBY7 {
-  background-image: url("../../../assets/images/mbr.jpg");
-}
-.cid-qK0wtyPBY7 .mbr-section-subtitle {
-  letter-spacing: .2rem;
-}
-.cid-qK0wtyPBY7 H1 {
-  color: #232323;
-  text-align: center;
-}
 .cid-qK0wZk6XsN .navbar {
   padding: .5rem 0;
-  background: #4f4943;
+  background: #232323;
   transition: none;
   min-height: 77px;
 }
 .cid-qK0wZk6XsN .navbar-dropdown.bg-color.transparent.opened {
-  background: #4f4943;
+  background: #232323;
 }
 .cid-qK0wZk6XsN a {
   font-style: normal;
@@ -1474,7 +1464,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qK0wZk6XsN .dropdown .dropdown-menu {
-  background: #4f4943;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1763,4 +1753,24 @@ body {
 .cid-qK0wZk6XsN .nav-link:hover,
 .cid-qK0wZk6XsN .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-qK6XoEhald {
+  background-image: url("../../../assets/images/voorblad2.jpg");
+}
+.cid-qK6XoEhald h1 {
+  color: #616161;
+}
+.cid-qK6XoEhald h2,
+.cid-qK6XoEhald h3,
+.cid-qK6XoEhald p {
+  color: #767676;
+}
+.cid-qK6XoEhald .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-qK6XoEhald H1 {
+  color: #232323;
+}
+.cid-qK6XoEhald P {
+  color: #232323;
 }
