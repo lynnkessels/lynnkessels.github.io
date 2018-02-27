@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lynn Kessels",
-    "currentPage": "tekeningen1718.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -534,7 +534,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1026,7 +1026,7 @@
           "_once": false,
           "_params": {
             "text_all": "Alles",
-            "gallery__filtersTextStyle": "display-7",
+            "gallery__filtersTextStyle": "display-2",
             "gallery__filtersBtnStyle": "btn-success-outline",
             "gallery": [
               {
@@ -1557,7 +1557,7 @@
           "_once": false,
           "_params": {
             "text_all": "Alles",
-            "gallery__filtersTextStyle": "display-7",
+            "gallery__filtersTextStyle": "display-2",
             "gallery__filtersBtnStyle": "btn-success-outline",
             "gallery": [
               {
@@ -3170,7 +3170,7 @@
           "_once": false,
           "_params": {
             "text_all": "Alles",
-            "gallery__filtersTextStyle": "display-7",
+            "gallery__filtersTextStyle": "display-2",
             "gallery__filtersBtnStyle": "btn-success-outline",
             "gallery": [
               {
@@ -3724,7 +3724,7 @@
           "_once": false,
           "_params": {
             "text_all": "Alles",
-            "gallery__filtersTextStyle": "display-7",
+            "gallery__filtersTextStyle": "display-2",
             "gallery__filtersBtnStyle": "btn-success-outline",
             "gallery": [
               {
@@ -3763,7 +3763,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
