@@ -43,11 +43,11 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1.5rem;
+  font-family: 'Raleway', sans-serif;
+  font-size: 2rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 3.2rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -78,9 +78,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.6rem;
+    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -3494,6 +3494,18 @@ body {
     width: 100% !important;
   }
 }
+.cid-qKRebfy4KT {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #f7ed4a;
+}
+.cid-qKRebfy4KT .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qKRebfy4KT H2 {
+  color: #232323;
+  text-align: center;
+}
 .cid-qK74o2cUVi .navbar {
   padding: .5rem 0;
   background: #232323;
@@ -3875,48 +3887,67 @@ body {
 .cid-qK74o2cUVi .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qK74o2TOj4 {
-  background-image: url("../../../assets/images/voorblad2.jpg");
+.cid-qKRdaE9imf {
+  padding-top: 0px;
+  padding-bottom: 135px;
+  background-color: #ffffff;
 }
-.cid-qK74o2TOj4 h1 {
-  color: #616161;
+.cid-qKRdaE9imf .mbr-slider .carousel-control {
+  background: #1b1b1b;
 }
-.cid-qK74o2TOj4 h2,
-.cid-qK74o2TOj4 h3,
-.cid-qK74o2TOj4 p {
-  color: #767676;
+.cid-qKRdaE9imf .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
 }
-.cid-qK74o2TOj4 .mbr-section-subtitle {
-  font-style: italic;
+.cid-qKRdaE9imf .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
 }
-.cid-qK74o2TOj4 H1 {
-  color: #232323;
+.cid-qKRdaE9imf .mbr-slider .modal-body .close {
+  background: #1b1b1b;
 }
-.cid-qK74o2TOj4 P {
-  color: #232323;
+.cid-qKRdaE9imf .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
 }
-.cid-qK74o3Nsod {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #efefef;
+.cid-qKRdaE9imf .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
 }
-.cid-qK74o3Nsod .line {
-  background-color: #232323;
-  color: #232323;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
+.cid-qKRdaE9imf .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
 }
-.cid-qK74o3Nsod .section-text {
-  padding: 2rem 0;
+.cid-qKRdaE9imf .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
 }
-.cid-qK74o3Nsod .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qK74o3Nsod .inner-container {
-    width: 100% !important;
-  }
+.cid-qKRdaE9imf .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
 }
 .cid-qK72NYQJEy .navbar {
   padding: .5rem 0;
@@ -4299,48 +4330,79 @@ body {
 .cid-qK72NYQJEy .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qK72NZm9mO {
-  background-image: url("../../../assets/images/voorblad2.jpg");
+.cid-qKRf0x4Q3g {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #f7ed4a;
 }
-.cid-qK72NZm9mO h1 {
-  color: #616161;
-}
-.cid-qK72NZm9mO h2,
-.cid-qK72NZm9mO h3,
-.cid-qK72NZm9mO p {
+.cid-qKRf0x4Q3g .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qK72NZm9mO .mbr-section-subtitle {
-  font-style: italic;
-}
-.cid-qK72NZm9mO H1 {
+.cid-qKRf0x4Q3g H2 {
   color: #232323;
+  text-align: center;
 }
-.cid-qK72NZm9mO P {
-  color: #232323;
+.cid-qKRf0TRESB {
+  padding-top: 0px;
+  padding-bottom: 135px;
+  background-color: #ffffff;
 }
-.cid-qK72O0djHn {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #efefef;
+.cid-qKRf0TRESB .mbr-slider .carousel-control {
+  background: #1b1b1b;
 }
-.cid-qK72O0djHn .line {
-  background-color: #232323;
-  color: #232323;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
+.cid-qKRf0TRESB .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
 }
-.cid-qK72O0djHn .section-text {
-  padding: 2rem 0;
+.cid-qKRf0TRESB .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
 }
-.cid-qK72O0djHn .inner-container {
-  margin: 0 auto;
+.cid-qKRf0TRESB .mbr-slider .modal-body .close {
+  background: #1b1b1b;
 }
-@media (max-width: 768px) {
-  .cid-qK72O0djHn .inner-container {
-    width: 100% !important;
-  }
+.cid-qKRf0TRESB .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qKRf0TRESB .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-qKRf0TRESB .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-qKRf0TRESB .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-qKRf0TRESB .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
 }
 .cid-qK74FizHrL .navbar {
   padding: .5rem 0;
