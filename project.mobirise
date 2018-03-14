@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lynn Kessels NL",
-    "currentPage": "copyright.html",
+    "currentPage": "privacy.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5643,7 +5643,7 @@
         }
       ]
     },
-    "copyright.html": {
+    "privacy.html": {
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "copyright",
