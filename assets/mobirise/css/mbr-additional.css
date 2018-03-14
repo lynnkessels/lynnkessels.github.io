@@ -6459,15 +6459,18 @@ body {
 .cid-qK0wZk6XsN .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qMhcC5MXwZ {
+.cid-qMhj1n3F4T {
   padding-top: 120px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-qMhcC5MXwZ .mbr-text,
-.cid-qMhcC5MXwZ blockquote {
+.cid-qMhj1n3F4T .mbr-text,
+.cid-qMhj1n3F4T blockquote {
   color: #767676;
 }
-.cid-qMhcC5MXwZ .mbr-text P {
+.cid-qMhj1n3F4T .mbr-text DIV {
+  color: #232323;
+}
+.cid-qMhj1n3F4T .mbr-text B {
   color: #232323;
 }

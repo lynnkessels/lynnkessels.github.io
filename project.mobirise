@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lynn Kessels NL",
-    "currentPage": "copyright.html.html",
+    "currentPage": "copyright.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-114899949-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-114899949-2');\r\n</script>",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 55,
+    "uniqCompNum": 57,
     "versionPublish": "4.6.5",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -5643,9 +5643,9 @@
         }
       ]
     },
-    "copyright.html.html": {
+    "copyright.html": {
       "settings": {
-        "meta_descr": "All rights reserved",
+        "meta_descr": "Web Site Generator Description",
         "title": "copyright",
         "order": 1
       },
@@ -6053,7 +6053,7 @@
           "_global": true,
           "_once": "menu",
           "_params": {},
-          "_anchor": "menu1-1g"
+          "_anchor": "menu1-1j"
         },
         {
           "_styles": {
@@ -6063,18 +6063,21 @@
             ".mbr-text, blockquote": {
               "color": "#767676"
             },
-            ".mbr-text P": {
+            ".mbr-text DIV": {
+              "color": "#232323"
+            },
+            ".mbr-text B": {
               "color": "#232323"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Cookiebeleid</b></p><p><b>“Google Analytics\n:</b></p><p><b style=\"font-size: 1rem;\">Via onze website wordt een cookie geplaatst van het Amerikaanse bedrijf Google, als deel van de “Analytics”-dienst. Wij gebruiken deze dienst om bij te houden en rapportages te krijgen over hoe bezoekers de website gebruiken. Google kan deze informatie aan derden verschaffen indien Google hiertoe wettelijk wordt verplicht, of voor zover derden de informatie namens Google verwerken. Wij hebben hier geen invloed op. Wij hebben Google wel/niet toegestaan de verkregen analytics informatie te gebruiken voor andere Google diensten.&nbsp;</b></p><p><b>De informatie die Google verzamelt wordt zo veel mogelijk geanonimiseerd. Uw IP-adres wordt nadrukkelijk niet meegegeven. De informatie wordt overgebracht naar en door Google opgeslagen op servers in de Verenigde Staten. Google stelt zich te houden aan de Privacy Shield principles en is aangesloten bij het Privacy Shield-programma van het Amerikaanse Ministerie van Handel. Dit houdt in dat er sprake is van een passend beschermingsniveau voor de verwerking van eventuele persoonsgegevens.”</b></p><p><b>Alle rechten voorbehouden © Lynn Kessels 2018</b></p></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qMhcC5MXwZ",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Cookiebeleid</b></p><p><b>“Google Analytics\n</b></p><div><b>Via onze website wordt een cookie geplaatst van het Amerikaanse bedrijf Google, als deel van de “Analytics”-dienst. Wij gebruiken deze dienst om bij te houden en rapportages te krijgen over hoe bezoekers de website gebruiken. Google kan deze informatie aan derden verschaffen indien Google hiertoe wettelijk wordt verplicht, of voor zover derden de informatie namens Google verwerken. Wij hebben hier geen invloed op. Wij hebben Google toegestaan de verkregen analytics informatie te gebruiken voor andere Google diensten.\n</b></div><div><b>\n</b></div><div><b>De informatie die Google verzamelt wordt zo veel mogelijk geanonimiseerd. Uw IP-adres wordt nadrukkelijk niet meegegeven. De informatie wordt overgebracht naar en door Google opgeslagen op servers in de Verenigde Staten. Google stelt zich te houden aan de Privacy Shield principles en is aangesloten bij het Privacy Shield-programma van het Amerikaanse Ministerie van Handel. Dit houdt in dat er sprake is van een passend beschermingsniveau voor de verwerking van eventuele persoonsgegevens.”</b></div><div><b><br></b></div><div><b>Alle rechten voorbehouden ©Lynn Kessels 2018</b></div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qMhj1n3F4T",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {},
-          "_anchor": "content1-1i"
+          "_anchor": "content1-1k"
         }
       ]
     }
