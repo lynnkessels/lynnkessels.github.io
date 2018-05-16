@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lynn Kessels NL",
-    "currentPage": "tekeningen1718.html",
+    "currentPage": "schilderijen.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1034,24 +1034,24 @@
             "gallery__filtersBtnStyle": "btn-success-outline",
             "gallery": [
               {
-                "tags": "2016/2017",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/mg-1-800x1596.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-1-800x1596-800x1596.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "2017/2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/mg-9780-bewerkt.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-9780-bewerkt-800x1255.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016/2017",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/mg-1-800x1596.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1-800x1596-800x1596.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -1074,36 +1074,24 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/mg-800x895.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-800x895-800x895.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016/2017",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/mg-800x800.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-800x800-800x800.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "2016/2017",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/mg-800x803.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-800x803-800x803.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "2016/2017",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/mg-800x895.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-800x895-800x895.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": true
               },
               {
                 "tags": "2017/2018",
@@ -1116,6 +1104,18 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "2017/2018",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/mg-800x803.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-800x803-800x803.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           }
